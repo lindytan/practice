@@ -1,0 +1,53 @@
+{
+  "uid" : "bc91cad0937d7d51",
+  "name" : "test_04_getuser4status",
+  "fullName" : "case.test_03_inspirer#test_04_getuser4status",
+  "historyId" : "98fded3e5fd12862092493829d624afd",
+  "time" : {
+    "start" : 1600082475083,
+    "stop" : 1600082475221,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_03_inspirer"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CBTTKK9"
+  }, {
+    "name" : "thread",
+    "value" : "14252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_03_inspirer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc91cad0937d7d51.json",
+  "parameterValues" : [ ]
+}
